@@ -1,5 +1,4 @@
-# tiktok-signatures
-TikTok Mobile Signatures
+# TikTok Mobile Signatures
 
 Algorithms for signing requests to the TikTok mobile API (compatible with app identifiers 1233)
 
