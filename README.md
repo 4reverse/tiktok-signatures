@@ -9,5 +9,6 @@ Algorithms for signing requests to the TikTok mobile API (compatible with app id
 - MSSDK (encryption / decryption)
 
 Python source code
+Only 3 copies at a low price
 
 TG: https://t.me/byte0x01
